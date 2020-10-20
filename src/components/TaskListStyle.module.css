@@ -1,0 +1,20 @@
+.checked{
+    text-decoration: line-through;
+}
+.regular{
+    text-decoration: none;
+}
+
+ul{
+    list-style-type: none;
+}
+h5{
+    display: inline-block;
+    margin-right: 15px;
+}
+
+button{
+    margin-left: 10px;
+}
+
+
